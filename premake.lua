@@ -24,7 +24,7 @@ filter "system:linux"
   systemversion "latest"
   staticruntime "On"
   
-  "src/linux_joystick.c,
+  "src/linux_joystick.c",
   "src/posix_module.c",
   "src/posix_thread.c",
   "src/posix_time.c",
